@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "65a811075d1573572a4d47d7"
+  },
+  "id": 1,
+  "last_login": null,
+  "name": "",
+  "username": "admin",
+  "email": "",
+  "password": "pbkdf2_sha256$320000$4KyY60Oam29tzRbhyknAoI$UXQebZlY72TCMmAxjxcCJGpHI/P0bbW19chA2IQe7hI=",
+  "is_active": true,
+  "is_staff": true,
+  "is_superuser": true
+},
+{
+  "_id": {
+    "$oid": "65a81549cc9e9518a9c985e3"
+  },
+  "id": 2,
+  "last_login": null,
+  "name": "aditya",
+  "username": "aditya",
+  "email": "aditya@gmail.com",
+  "password": "pbkdf2_sha256$320000$n1fqHU2JXoEt3pJG697nkj$1dRBt2Z9szK9FpvXPTE7/6BSBjeD2wD0vOAKnPhOn8M=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65aa51ee034ffc905dfb22bf"
+  },
+  "id": 3,
+  "last_login": null,
+  "name": "patil",
+  "username": "patil",
+  "email": "patil@gmail.com",
+  "password": "pbkdf2_sha256$320000$2KqFWnAZK27o0ljWmn0JPo$zzPmYB0nl9NziWIVnr6we2yY/HAk5QwX+zAqmXL10BQ=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65ae93365ade7ebe4a6dc123"
+  },
+  "id": 4,
+  "last_login": null,
+  "name": "abc",
+  "username": "abc",
+  "email": "abc@gmail.com",
+  "password": "pbkdf2_sha256$320000$Y0rXxWNzU0UzzqjXisrt02$uPM/2ogNRcB+mDJRsMkIp8vesrzDsqWvqMP/QOKIVus=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65ae97015ade7ebe4a6dc124"
+  },
+  "id": 5,
+  "last_login": null,
+  "name": "xyz",
+  "username": "xyz",
+  "email": "xyz@gmail.com",
+  "password": "pbkdf2_sha256$320000$PAcVSfs75fIvp5ubgYpQA7$Fzi0XKVu0spcq0qKSvyr+hi3NB3ikJ43luZB6HGVvvc=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65b0e22c56d2600f2e19bf5f"
+  },
+  "id": 6,
+  "last_login": null,
+  "name": "pqr",
+  "username": "pqr",
+  "email": "pqr@gmail.com",
+  "password": "pbkdf2_sha256$320000$qOD1IHoYoRCXEZrZMHjhrs$rpEY2P+U8vRUb8sEnlucuOL9zkH5iSbIXdl/QOueQtQ=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65b103bb0a32544e6658f417"
+  },
+  "id": 7,
+  "last_login": null,
+  "name": "Archana",
+  "username": "Archana",
+  "email": "Archana@gmail.com",
+  "password": "pbkdf2_sha256$320000$iAbdbe1xqDCereriuCIYGe$Kc62Op4sj/1wKbW5r62uFJ6/5Sy7vkzhIL9eImpfkpY=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65b168e6c0adb4c6429aee5c"
+  },
+  "id": 8,
+  "last_login": null,
+  "name": "Kitoo",
+  "username": "Kitoo",
+  "email": "kitoo@gmail.com",
+  "password": "pbkdf2_sha256$320000$umnBFLGi16JUcKfrJI5k3r$Tvls/NSRDPlZAmgaLWUrcmPXv2m0J2IHAQulUSyf5UE=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65b1e94898d5b2c64560eda8"
+  },
+  "id": 9,
+  "last_login": null,
+  "name": "def",
+  "username": "def",
+  "email": "def@gmail.com",
+  "password": "pbkdf2_sha256$320000$tVM1GAxWPBP5VRcdfU9jr0$tywBOBxQcMwUdmbZgYuKzFzfGSu8SP3mWQnyaY+8ykg=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65b2140398d5b2c64560edb5"
+  },
+  "id": 10,
+  "last_login": null,
+  "name": "Shahrukh Khan",
+  "username": "Shahrukh",
+  "email": "shahrukh@gmail.com",
+  "password": "pbkdf2_sha256$320000$UWIZShbt0n8P7oaPVKcrNt$v1h0BzkIAqAfiWewofyBd/RnGWsErYAO1PAQv//Mghc=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+},
+{
+  "_id": {
+    "$oid": "65b2147298d5b2c64560edb9"
+  },
+  "id": 11,
+  "last_login": null,
+  "name": "Elon Musk",
+  "username": "Elon",
+  "email": "elon@gmail.com",
+  "password": "pbkdf2_sha256$320000$2R8AG5ZT5j4b7hsIBwcZIs$f5sElmdByohoGTwrzNdex42oOHhDX2SYBjFL1t8Kl1w=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+}]

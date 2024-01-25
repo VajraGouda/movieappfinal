@@ -1,0 +1,386 @@
+[{
+  "_id": {
+    "$oid": "65a810dee314c1bccf8ad321"
+  },
+  "name": "django_migrations",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 19
+  },
+  "fields": {
+    "app": {
+      "type_code": "string"
+    },
+    "applied": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad328"
+  },
+  "name": "movieBooking_user",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 11
+  },
+  "fields": {
+    "email": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "is_active": {
+      "type_code": "bool"
+    },
+    "is_staff": {
+      "type_code": "bool"
+    },
+    "is_superuser": {
+      "type_code": "bool"
+    },
+    "last_login": {
+      "type_code": "date"
+    },
+    "name": {
+      "type_code": "string"
+    },
+    "password": {
+      "type_code": "string"
+    },
+    "username": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad32e"
+  },
+  "name": "movieBooking_movie",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 17
+  },
+  "fields": {
+    "description": {
+      "type_code": "string"
+    },
+    "director": {
+      "type_code": "string"
+    },
+    "genre": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "image": {
+      "type_code": "string"
+    },
+    "language": {
+      "type_code": "string"
+    },
+    "movie_length": {
+      "type_code": "int"
+    },
+    "rating": {
+      "type_code": "double"
+    },
+    "release_date": {
+      "type_code": "date"
+    },
+    "title": {
+      "type_code": "string"
+    },
+    "trailer": {
+      "type_code": "string"
+    },
+    "user_id": {
+      "type_code": "long"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad334"
+  },
+  "name": "movieBooking_theatre",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 15
+  },
+  "fields": {
+    "address": {
+      "type_code": "string"
+    },
+    "city": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "movie_id": {
+      "type_code": "long"
+    },
+    "movie_timing": {
+      "type_code": "date"
+    },
+    "name": {
+      "type_code": "string"
+    },
+    "pincode": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad339"
+  },
+  "name": "movieBooking_seat",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 98
+  },
+  "fields": {
+    "category": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "is_reserved": {
+      "type_code": "bool"
+    },
+    "movie_id": {
+      "type_code": "long"
+    },
+    "price": {
+      "type_code": "double"
+    },
+    "seat_number": {
+      "type_code": "string"
+    },
+    "theatre_id": {
+      "type_code": "long"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad33e"
+  },
+  "name": "movieBooking_booking",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 82
+  },
+  "fields": {
+    "booking_time": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "movie_id": {
+      "type_code": "long"
+    },
+    "total_cost": {
+      "type_code": "double"
+    },
+    "user_id": {
+      "type_code": "long"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad343"
+  },
+  "name": "movieBooking_booking_seats",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 171
+  },
+  "fields": {
+    "booking_id": {
+      "type_code": "long"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "seat_id": {
+      "type_code": "long"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad355"
+  },
+  "name": "django_content_type",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 10
+  },
+  "fields": {
+    "app_label": {
+      "type_code": "string"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "model": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad35e"
+  },
+  "name": "django_admin_log",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "action_flag": {
+      "type_code": "int"
+    },
+    "action_time": {
+      "type_code": "date"
+    },
+    "change_message": {
+      "type_code": "string"
+    },
+    "content_type_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "object_id": {
+      "type_code": "string"
+    },
+    "object_repr": {
+      "type_code": "string"
+    },
+    "user_id": {
+      "type_code": "long"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad373"
+  },
+  "name": "auth_permission",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 40
+  },
+  "fields": {
+    "codename": {
+      "type_code": "string"
+    },
+    "content_type_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad379"
+  },
+  "name": "auth_group",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad37e"
+  },
+  "name": "auth_group_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "group_id": {
+      "type_code": "int"
+    },
+    "id": {
+      "type_code": "long"
+    },
+    "permission_id": {
+      "type_code": "int"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65a810dfe314c1bccf8ad3ac"
+  },
+  "name": "django_session",
+  "fields": {
+    "expire_date": {
+      "type_code": "date"
+    },
+    "session_data": {
+      "type_code": "string"
+    },
+    "session_key": {
+      "type_code": "string"
+    }
+  }
+}]

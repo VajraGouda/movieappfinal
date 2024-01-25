@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "65a81403cc9e9518a9c985e0"
+  },
+  "id": 1,
+  "movie_id": 1,
+  "name": "PVR - Mumbai",
+  "address": "MG Road",
+  "city": "Mumbai",
+  "pincode": "400001",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a814ddcc9e9518a9c985e2"
+  },
+  "id": 2,
+  "movie_id": 2,
+  "name": "Cineplex - Mumbai",
+  "address": "MG Road",
+  "city": "Mumbai",
+  "pincode": "400002",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a817f2cd199c9aa68bd543"
+  },
+  "id": 6,
+  "movie_id": 6,
+  "name": "Esquare - Bangalore",
+  "address": "MG Road",
+  "city": "Bangalore",
+  "pincode": "400003",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a818cecd199c9aa68bd545"
+  },
+  "id": 7,
+  "movie_id": 7,
+  "name": "Cineplex - Bangalore",
+  "address": "MG Road",
+  "city": "Bangalore",
+  "pincode": "400004",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a81977cd199c9aa68bd547"
+  },
+  "id": 8,
+  "movie_id": 8,
+  "name": "PVR - Chennai",
+  "address": "MG Road",
+  "city": "Chennai",
+  "pincode": "400005",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a81a32cd199c9aa68bd549"
+  },
+  "id": 9,
+  "movie_id": 9,
+  "name": "Cineplex - Chennai",
+  "address": "MG Road",
+  "city": "Chennai",
+  "pincode": "400006",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a81ac3cd199c9aa68bd54b"
+  },
+  "id": 10,
+  "movie_id": 10,
+  "name": "PVR - Pune",
+  "address": "MG Road",
+  "city": "Pune",
+  "pincode": "400007",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a81b34de964859ad670c38"
+  },
+  "id": 11,
+  "movie_id": 11,
+  "name": "Cineplex - Pune",
+  "address": "MG Road",
+  "city": "Pune",
+  "pincode": "400008",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a81c01de964859ad670c3a"
+  },
+  "id": 12,
+  "movie_id": 12,
+  "name": "PVR - Kolkata",
+  "address": "MG Road",
+  "city": "Kolkata",
+  "pincode": "400009",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65a81ca0de964859ad670c3c"
+  },
+  "id": 13,
+  "movie_id": 13,
+  "name": "Cineplex - Kolkata",
+  "address": "MG Road",
+  "city": "Kolkata",
+  "pincode": "400010",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65af90ff56d2600f2e19bf53"
+  },
+  "id": 14,
+  "movie_id": 16,
+  "name": "Wakanda Forever",
+  "address": "MG Road",
+  "city": "Bangalore",
+  "pincode": "400003",
+  "movie_timing": null
+},
+{
+  "_id": {
+    "$oid": "65afa4de56d2600f2e19bf58"
+  },
+  "id": 15,
+  "movie_id": 17,
+  "name": "Cinemax - Nashik",
+  "address": "College Road",
+  "city": "Nashik",
+  "pincode": "400012",
+  "movie_timing": null
+}]

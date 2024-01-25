@@ -1,0 +1,19 @@
+/* styles.module.css */
+
+.wrapper {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+    text-align: center; 
+}
+
+.box {
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px; /* Add border-radius for rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow for a subtle elevation effect */
+}
+
+.card {
+    border: none; /* Remove the default border */
+}

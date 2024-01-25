@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "65a81403cc9e9518a9c985df"
+  },
+  "id": 1,
+  "user_id": 1,
+  "title": "Zindagi Na Milegi Dobara",
+  "director": "Zoya Akhtar",
+  "genre": "Comedy",
+  "description": "Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/zindagi-na-milegi-dobara-et00006440-07-01-2021-11-25-35.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ifIBOKCfjVs",
+  "language": "Hindi",
+  "rating": 8.2,
+  "movie_length": 155,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a814ddcc9e9518a9c985e1"
+  },
+  "id": 2,
+  "user_id": 1,
+  "title": "Hanu-man",
+  "director": "Rohit Shetty",
+  "genre": "Comedy",
+  "description": "The unexpected arrival of his elder NRI brother and assorted characters complicates the life of a Goan male.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/hanu-man-et00311673-1704954533.jpg",
+  "trailer": "https://www.youtube.com/watch?v=MKqJBhOgapM",
+  "language": "Hindi",
+  "rating": 6.2,
+  "movie_length": 144,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a817f2cd199c9aa68bd542"
+  },
+  "id": 6,
+  "user_id": 1,
+  "title": "Pathaan",
+  "director": "Siddhart Anand",
+  "genre": "Comedy",
+  "description": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pathaan-et00323848-1674372556.jpg",
+  "trailer": "https://www.youtube.com/watch?v=vqu4z34wENw",
+  "language": "English",
+  "rating": 7.6,
+  "movie_length": 88,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a818cecd199c9aa68bd544"
+  },
+  "id": 7,
+  "user_id": 1,
+  "title": "The Beekeeper",
+  "director": "Glenn Ficarra and John Requa",
+  "genre": "Rom-Com",
+  "description": "A middle-aged husband's life changes dramatically when his wife asks him for a divorce. He seeks to rediscover his manhood with the help of a newfound friend, Jacob, learning to pick up girls at bars.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-beekeeper-et00372125-1696838296.jpg",
+  "trailer": "https://www.youtube.com/watch?v=CHKn-yDCE2w",
+  "language": "English",
+  "rating": 7.4,
+  "movie_length": 118,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a81977cd199c9aa68bd546"
+  },
+  "id": 8,
+  "user_id": 1,
+  "title": "Main Atal Hoon",
+  "director": "Marc Lawrence",
+  "genre": "Rom-Com",
+  "description": "\"Main Atal Hoon\" is a compelling biographical drama that chronicles the extraordinary life and political journey of Shri Atal Bihari Vajpayee, an iconic figure in Indian politics. The film delves into the multifaceted persona of Vajpayee Ji, capturing his essence as a poet, a gentleman, and a statesman.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/main-atal-hoon-et00348408-1705487125.jpg",
+  "trailer": "https://www.youtube.com/watch?v=pr0cWzNIfXo",
+  "language": "Spanish",
+  "rating": 6.1,
+  "movie_length": 101,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a81a32cd199c9aa68bd548"
+  },
+  "id": 9,
+  "user_id": 1,
+  "title": "Tu Jhoothi Main Makkaar",
+  "director": "Martin Scorsese",
+  "genre": "Mystery",
+  "description": "Madness ensues when a `player` in the world of romantic relationships finds a girl who`s a worthy opponent. Tu Jhoothi Main Makkaar is a film that believes love is a battle of wits.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/tu-jhoothi-main-makkaar-et00347237-1675065103.jpg",
+  "trailer": "https://www.youtube.com/watch?v=Cx_Dtwn4ayw",
+  "language": "Spanish",
+  "rating": 8.2,
+  "movie_length": 138,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a81ac3cd199c9aa68bd54a"
+  },
+  "id": 10,
+  "user_id": 1,
+  "title": "The Marvels",
+  "director": "Rian Johnson",
+  "genre": "Mystery",
+  "description": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-marvels-et00310793-1698670579.jpg",
+  "trailer": "https://www.youtube.com/watch?v=wS_qbDztgVY",
+  "language": "Italian",
+  "rating": 7.9,
+  "movie_length": 130,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a81b34de964859ad670c37"
+  },
+  "id": 11,
+  "user_id": 1,
+  "title": "Merry Christmas",
+  "director": "David Fincher",
+  "genre": "Crime",
+  "description": "On Christmas Eve, Albert returns home after several years of being away. Grieving for and adjusting to the loss of his mother, he steps out seeking cheer in the city`s Christmas Eve festivities. He meets the beautiful and mysterious Maria, and her little daughter who is mute.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/merry-christmas-et00348399-1703749058.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ugGGNSPMRDk",
+  "language": "Italian",
+  "rating": 8.6,
+  "movie_length": 127,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a81c01de964859ad670c39"
+  },
+  "id": 12,
+  "user_id": 1,
+  "title": "Fighter",
+  "director": "John Francis Daley and Jonathan Goldstein",
+  "genre": "Adventure",
+  "description": "Top IAF aviators come together in the face of imminent danger, to form Air Dragons. Fighter unfolds their camaraderie, brotherhood and battles, internal and external.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/fighter-et00304730-1704191105.jpg",
+  "trailer": "https://www.youtube.com/watch?v=6amIq_mP4xM",
+  "language": "Tamil",
+  "rating": 6.9,
+  "movie_length": 100,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65a81ca0de964859ad670c3b"
+  },
+  "id": 13,
+  "user_id": 1,
+  "title": "12th Fail",
+  "director": "Sean Anders",
+  "genre": "Adventure",
+  "description": "12th Fail depicts the true story of an IPS officer Manoj Kumar Sharma hailing from a small town in Chambal, who fearlessly embraced the idea of restarting his academic journey and reclaiming his destiny at a place where millions of students attempt for the world`s toughest competitive exam, UPSC.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/12th-fail-et00363787-1698316138.jpg",
+  "trailer": "https://www.youtube.com/watch?v=KjbtuqENvVE",
+  "language": "Tamil",
+  "rating": 5.5,
+  "movie_length": 116,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65af90ff56d2600f2e19bf52"
+  },
+  "id": 16,
+  "user_id": 1,
+  "title": "Anyone But You",
+  "director": "Will Gluck",
+  "genre": "Rom-Com",
+  "description": "After an amazing first date, Bea and Ben's fiery attraction turns ice-cold--until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/anyone-but-you-et00373727-1697791051.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ESEc6W2h9_k",
+  "language": "English",
+  "rating": 4,
+  "movie_length": 103,
+  "release_date": null
+},
+{
+  "_id": {
+    "$oid": "65afa4de56d2600f2e19bf57"
+  },
+  "id": 17,
+  "user_id": 1,
+  "title": "K.G.F: Chapter 1",
+  "director": "Prashanth Neel",
+  "genre": "Action",
+  "description": "In the 1970s, a gangster named Rocky goes undercover as a slave to assassinate the owner of a notorious gold mine known as the Kolar Gold Fields.",
+  "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-et00042769-15-12-2020-08-08-47.jpg",
+  "trailer": "https://www.youtube.com/watch?v=-KfsY-qwBS0",
+  "language": "Kannada",
+  "rating": 8.2,
+  "movie_length": 154,
+  "release_date": null
+}]

@@ -1,0 +1,23 @@
+.filters{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    border-color: #FFFF8F;
+    height: 40px;
+    border-radius: 10px;
+    width: 100%; 
+    width: 200px;
+    
+}
+
+.box:hover{
+    outline:  #FFFF8F ; 
+
+}
+
+.dabba{
+    margin-bottom: 40px;
+    margin-top: 20px;    
+}

@@ -1,0 +1,1176 @@
+[{
+  "_id": {
+    "$oid": "65a8241373870fd4d5a00a36"
+  },
+  "id": 1,
+  "theatre_id": 1,
+  "movie_id": 1,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a8248e73870fd4d5a00a37"
+  },
+  "id": 2,
+  "theatre_id": 1,
+  "movie_id": 1,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a8249773870fd4d5a00a38"
+  },
+  "id": 3,
+  "theatre_id": 1,
+  "movie_id": 1,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a824a573870fd4d5a00a39"
+  },
+  "id": 4,
+  "theatre_id": 1,
+  "movie_id": 1,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a824b473870fd4d5a00a3a"
+  },
+  "id": 5,
+  "theatre_id": 1,
+  "movie_id": 1,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a82558f00ebf80fa9328f5"
+  },
+  "id": 6,
+  "theatre_id": 1,
+  "movie_id": 1,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a8260d96c9299f7ff83aeb"
+  },
+  "id": 7,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a8261496c9299f7ff83aec"
+  },
+  "id": 8,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a8261896c9299f7ff83aed"
+  },
+  "id": 9,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a8261d96c9299f7ff83aee"
+  },
+  "id": 10,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 800
+},
+{
+  "_id": {
+    "$oid": "65a8262996c9299f7ff83aef"
+  },
+  "id": 11,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a8263096c9299f7ff83af0"
+  },
+  "id": 12,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a8263496c9299f7ff83af1"
+  },
+  "id": 13,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a8263996c9299f7ff83af2"
+  },
+  "id": 14,
+  "theatre_id": 2,
+  "movie_id": 2,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826a796c9299f7ff83af3"
+  },
+  "id": 15,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826ab96c9299f7ff83af4"
+  },
+  "id": 16,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826ae96c9299f7ff83af5"
+  },
+  "id": 17,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826b296c9299f7ff83af6"
+  },
+  "id": 18,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826b596c9299f7ff83af7"
+  },
+  "id": 19,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826b896c9299f7ff83af8"
+  },
+  "id": 20,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826be96c9299f7ff83af9"
+  },
+  "id": 21,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826c296c9299f7ff83afa"
+  },
+  "id": 22,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826c696c9299f7ff83afb"
+  },
+  "id": 23,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "9",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826c996c9299f7ff83afc"
+  },
+  "id": 24,
+  "theatre_id": 6,
+  "movie_id": 6,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 400
+},
+{
+  "_id": {
+    "$oid": "65a826d896c9299f7ff83afd"
+  },
+  "id": 25,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a826dd96c9299f7ff83afe"
+  },
+  "id": 26,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a826e096c9299f7ff83aff"
+  },
+  "id": 27,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8271c96c9299f7ff83b00"
+  },
+  "id": 28,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8272296c9299f7ff83b01"
+  },
+  "id": 29,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8272596c9299f7ff83b02"
+  },
+  "id": 30,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8272996c9299f7ff83b03"
+  },
+  "id": 31,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8272b96c9299f7ff83b04"
+  },
+  "id": 32,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8272e96c9299f7ff83b05"
+  },
+  "id": 33,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "9",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8273196c9299f7ff83b06"
+  },
+  "id": 34,
+  "theatre_id": 7,
+  "movie_id": 7,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 700
+},
+{
+  "_id": {
+    "$oid": "65a8273f96c9299f7ff83b07"
+  },
+  "id": 35,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 450
+},
+{
+  "_id": {
+    "$oid": "65a8274296c9299f7ff83b08"
+  },
+  "id": 36,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 450
+},
+{
+  "_id": {
+    "$oid": "65a8274496c9299f7ff83b09"
+  },
+  "id": 37,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 450
+},
+{
+  "_id": {
+    "$oid": "65a8274896c9299f7ff83b0a"
+  },
+  "id": 38,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 450
+},
+{
+  "_id": {
+    "$oid": "65a8275396c9299f7ff83b0b"
+  },
+  "id": 39,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8275596c9299f7ff83b0c"
+  },
+  "id": 40,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8275796c9299f7ff83b0d"
+  },
+  "id": 41,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8275996c9299f7ff83b0e"
+  },
+  "id": 42,
+  "theatre_id": 8,
+  "movie_id": 8,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8276896c9299f7ff83b0f"
+  },
+  "id": 43,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8276d96c9299f7ff83b10"
+  },
+  "id": 44,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8277096c9299f7ff83b11"
+  },
+  "id": 45,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8277296c9299f7ff83b12"
+  },
+  "id": 46,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65a8277d96c9299f7ff83b13"
+  },
+  "id": 47,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8278096c9299f7ff83b14"
+  },
+  "id": 48,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8278296c9299f7ff83b15"
+  },
+  "id": 49,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8278396c9299f7ff83b16"
+  },
+  "id": 50,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8278696c9299f7ff83b17"
+  },
+  "id": 51,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "9",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8278896c9299f7ff83b18"
+  },
+  "id": 52,
+  "theatre_id": 9,
+  "movie_id": 9,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8279596c9299f7ff83b19"
+  },
+  "id": 53,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8279796c9299f7ff83b1a"
+  },
+  "id": 54,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8279996c9299f7ff83b1b"
+  },
+  "id": 55,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8279a96c9299f7ff83b1c"
+  },
+  "id": 56,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8279c96c9299f7ff83b1d"
+  },
+  "id": 57,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a8279e96c9299f7ff83b1e"
+  },
+  "id": 58,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827a096c9299f7ff83b1f"
+  },
+  "id": 59,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827a196c9299f7ff83b20"
+  },
+  "id": 60,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827a496c9299f7ff83b21"
+  },
+  "id": 61,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "9",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827a896c9299f7ff83b22"
+  },
+  "id": 62,
+  "theatre_id": 10,
+  "movie_id": 10,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827b596c9299f7ff83b23"
+  },
+  "id": 63,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827b796c9299f7ff83b24"
+  },
+  "id": 64,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827b996c9299f7ff83b25"
+  },
+  "id": 65,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827bc96c9299f7ff83b26"
+  },
+  "id": 66,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827be96c9299f7ff83b27"
+  },
+  "id": 67,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "65a827c796c9299f7ff83b28"
+  },
+  "id": 68,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "65a827c996c9299f7ff83b29"
+  },
+  "id": 69,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "65a827ca96c9299f7ff83b2a"
+  },
+  "id": 70,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "65a827cd96c9299f7ff83b2b"
+  },
+  "id": 71,
+  "theatre_id": 11,
+  "movie_id": 11,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standrd",
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "65a827e696c9299f7ff83b2c"
+  },
+  "id": 72,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Super-Premium",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "65a827e896c9299f7ff83b2d"
+  },
+  "id": 73,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Super-Premium",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "65a827e996c9299f7ff83b2e"
+  },
+  "id": 74,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Super-Premium",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "65a827ec96c9299f7ff83b2f"
+  },
+  "id": 75,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Super-Premium",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "65a827ef96c9299f7ff83b30"
+  },
+  "id": 76,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Super-Premium",
+  "price": 1500
+},
+{
+  "_id": {
+    "$oid": "65a827fa96c9299f7ff83b31"
+  },
+  "id": 77,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "65a827fb96c9299f7ff83b32"
+  },
+  "id": 78,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "65a827fd96c9299f7ff83b33"
+  },
+  "id": 79,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "65a827fe96c9299f7ff83b34"
+  },
+  "id": 80,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "9",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "65a8280296c9299f7ff83b35"
+  },
+  "id": 81,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Premium",
+  "price": 1200
+},
+{
+  "_id": {
+    "$oid": "65a8280f96c9299f7ff83b36"
+  },
+  "id": 82,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "11",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "65a8281196c9299f7ff83b37"
+  },
+  "id": 83,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "12",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "65a8281496c9299f7ff83b38"
+  },
+  "id": 84,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "13",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "65a8281596c9299f7ff83b39"
+  },
+  "id": 85,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "14",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "65a8281796c9299f7ff83b3a"
+  },
+  "id": 86,
+  "theatre_id": 12,
+  "movie_id": 12,
+  "seat_number": "15",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 1000
+},
+{
+  "_id": {
+    "$oid": "65a8282496c9299f7ff83b3b"
+  },
+  "id": 87,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "1",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8282596c9299f7ff83b3c"
+  },
+  "id": 88,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "2",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8282796c9299f7ff83b3d"
+  },
+  "id": 89,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "3",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8282896c9299f7ff83b3e"
+  },
+  "id": 90,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "4",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8282996c9299f7ff83b3f"
+  },
+  "id": 91,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "5",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8282c96c9299f7ff83b40"
+  },
+  "id": 92,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "6",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8282f96c9299f7ff83b41"
+  },
+  "id": 93,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "7",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8283396c9299f7ff83b42"
+  },
+  "id": 94,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "8",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8283596c9299f7ff83b43"
+  },
+  "id": 95,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "9",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a8283796c9299f7ff83b44"
+  },
+  "id": 96,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a828db7180f8ba24b2d42a"
+  },
+  "id": 97,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "10",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+},
+{
+  "_id": {
+    "$oid": "65a82927442605a5b9d9fcd7"
+  },
+  "id": 98,
+  "theatre_id": 13,
+  "movie_id": 13,
+  "seat_number": "2, 1",
+  "is_reserved": false,
+  "category": "Standard",
+  "price": 300
+}]
