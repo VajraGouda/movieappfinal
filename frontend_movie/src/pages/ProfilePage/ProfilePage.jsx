@@ -23,6 +23,8 @@ const ProfilePage = () => {
                         Authorization: `Bearer ${accessToken}`,
                     },
                 });
+
+
                 setUserDetails(userDetailsResponse.data);
 
 
@@ -71,7 +73,7 @@ const ProfilePage = () => {
                 <h2 style={{ display: "flex", justifyContent: "center", margin: "50px" }}>Welcome, <a style={{ fontWeight: "bold" }}>{userDetails.name}</a></h2>
 
                 <h3 style={{ display: "flex", justifyContent: "center", margin: "50px" }}>Your Bookings</h3>
-                <ul style={{ display: "flex", margin: "50px" }}>
+                <div className="row" style={{ display: "flex", margin: "50px" }}>
 
                     {bookings.map((booking, index) => (
 
@@ -84,16 +86,17 @@ const ProfilePage = () => {
                                         <img src={movieTheatreDetails[index].movie.image} alt={movieTheatreDetails[index].movie.title} />
                                         <h2>{movieTheatreDetails[index].movie.title}</h2>
                                         <h4 className={styles.author}>Theatre: {movieTheatreDetails[index].name}</h4>
+                                        <h4 className={styles.author}>Show Time: 12:15 PM</h4>
                                     </div>
                                 )}
                                 <h4 className={styles.author}>Seats Booked: {booking.seats.join(', ')}</h4>
                                 <h2 className={styles.author}>Total Cost: Rs. {booking.total_cost}/-</h2>
-                                <h2 className={styles.author}>Booked at: {booking.booking_time}</h2>
+                                <a style= {{color: "#888", fontSize: "18px"}}>Booked at: {new Date(booking.booking_time).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</a>
 
                             </div>
                         </div>
                     ))}
-                </ul>
+                </div>
             </div>
         </>
     );

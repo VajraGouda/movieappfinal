@@ -132,7 +132,7 @@ class FilterViewMovie(APIView):
         if genre:
             movies = movies.filter(genre__icontains=genre)
         if language:
-            movies = movies.filter(language__iexact=language)
+            movies = movies.filter(language__icontains=language)
         if minRating:
             movies = movies.filter(rating__gt=float(minRating))
 
@@ -152,8 +152,6 @@ class TheatreView(APIView):
         return Response(serializer.errors, status=400)
 
 
-
-
 class FilterViewLocation(APIView):
     def get(self, request, city=None):
         title = request.GET.get("title", None)
@@ -166,7 +164,6 @@ class FilterViewLocation(APIView):
         if city:
             movies = movies.filter(theatres__city__iexact=city)
 
-        
         if title or genre or language or minRating:
             if title:
                 movies = movies.filter(title__icontains=title)
@@ -222,7 +219,7 @@ class SeatUpdateView(APIView):
             serializer.save()
             return Response(serializer.data)
         return Response(serializer.errors, status=400)
-    
+
 
 class BookingCreateView(APIView):
     permission_classes = [IsAuthenticated]
@@ -234,17 +231,22 @@ class BookingCreateView(APIView):
         movie_id = request.data.get('movie')
         seat_numbers = request.data.get('seats', [])
 
-        seats = Seat.objects.filter(movie=movie_id, seat_number__in=seat_numbers)
+        seats = Seat.objects.filter(
+            movie=movie_id, seat_number__in=seat_numbers)
 
         if len(seats) != len(seat_numbers):
             return Response({"error": "Invalid seat data"}, status=400)
 
         total_cost = sum(seat.price for seat in seats)
 
+        for seat in seats:
+            seat.is_reserved = True
+            seat.save()
+
         booking_data = {
             'user': request.user.id,
             'movie': movie_id,
-            'seats': [seat.id for seat in seats], 
+            'seats': [seat.id for seat in seats],
             'total_cost': total_cost,
         }
 
@@ -253,8 +255,6 @@ class BookingCreateView(APIView):
             serializer.save()
             return Response(serializer.data, status=201)
         return Response(serializer.errors, status=400)
-
-
 
 
 class BookingDetailsView(APIView):
@@ -275,6 +275,7 @@ class TheatreDetailView(APIView):
         serializer = TheatreSerializer(theatre)
         return Response(serializer.data, status=200)
 
+
 class UserBookingsView(APIView):
     permission_classes = [IsAuthenticated]
 
@@ -282,3 +283,15 @@ class UserBookingsView(APIView):
         bookings = Booking.objects.filter(user_id=user_id)
         serializer = BookingSerializer(bookings, many=True)
         return Response(serializer.data, status=200)
+
+
+class SeatRetrieveView(APIView):
+    def get(self, request, seat_id):
+        try:
+            seat = Seat.objects.get(id=seat_id)
+            serializer = SeatSerializer(seat)
+            return Response(serializer.data, status=200)
+        except Seat.DoesNotExist:
+            return Response({"error": "Seat not found"}, status=404)
+        except Exception as e:
+            return Response({"error": str(e)}, status=500)

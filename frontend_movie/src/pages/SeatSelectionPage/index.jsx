@@ -137,7 +137,7 @@ const SeatSelection = () => {
                     <div className="seat-occupied" style={{
                         backgroundColor: "grey",
                         height: "30px",
-                        width: "30px",
+                        width: "30px",  
                         margin: "5px", 
                         borderRadius: "10px",
                         display: "flex",

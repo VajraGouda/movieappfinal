@@ -15,11 +15,11 @@ const Seat = (props) => {
     };
 
     const seatStyles = {
-        backgroundColor: isSelected ? 'green' : 'white',
+        backgroundColor: isSelected ? 'green' : (is_reserved ? 'grey' : 'white'),
         height: "55px",
         width: "55px",
         margin: "5px",
-        borderRadius: "10px",        
+        borderRadius: "10px",
         display: "flex",
         flexDirection: "column",
         justifyContent: "center",
@@ -36,9 +36,9 @@ const Seat = (props) => {
 
 
 
-            <p className="category" style={{ margin: "5px 0", textAlign: "center", fontSize:"10px" }}>{category}</p>
-            <div className="seat-number" style={{ fontWeight: "bold", fontSize:"10px" }}>{seat_number}</div>
-            <div className="seat-number" style={{ textAlign: "center", fontSize:"10px" }}>₹ {price}</div>
+            <p className="category" style={{ margin: "5px 0", textAlign: "center", fontSize: "10px" }}>{category}</p>
+            <div className="seat-number" style={{ fontWeight: "bold", fontSize: "10px" }}>{seat_number}</div>
+            <div className="seat-number" style={{ textAlign: "center", fontSize: "10px" }}>₹ {price}</div>
         </div>
     );
 };

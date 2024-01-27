@@ -23,6 +23,7 @@ urlpatterns = [
     path('bookings/create/', BookingCreateView.as_view(), name='booking-create'), #post                          
     path('bookings/<int:booking_id>/', BookingDetailsView.as_view(), name='booking-details'), #get
     path('user-bookings/<int:user_id>/', UserBookingsView.as_view(), name='user-booking-details'), #get
+    path('seats/<int:seat_id>/', SeatRetrieveView.as_view(), name='seat-retrieve'),
 
 ]
 
