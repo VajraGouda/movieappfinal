@@ -15,7 +15,7 @@ const Seat = (props) => {
     };
 
     const seatStyles = {
-        backgroundColor: isSelected ? 'green' : (is_reserved ? 'grey' : 'white'),
+        backgroundColor: is_reserved ? 'grey' : (isSelected ? 'green' : 'white'),
         height: "55px",
         width: "55px",
         margin: "5px",

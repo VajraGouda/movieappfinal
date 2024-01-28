@@ -35,12 +35,20 @@ const SeatSelection = () => {
     }, [movieId]);
 
     const handleSeatSelect = ({ seatId, isSelected }) => {
-        
+        const selectedSeat = seats.find(seat => seat.seat_number === seatId);
+
+
+        if (selectedSeat.is_reserved) {
+
+            alert('This seat is reserved and cannot be selected.');
+            return;
+        }
+
         if (isSelected) {
-            
+
             setSelectedSeats([...selectedSeats, seatId]);
         } else {
-            
+
             setSelectedSeats(selectedSeats.filter(id => id !== seatId));
         }
     };
@@ -57,23 +65,24 @@ const SeatSelection = () => {
                 },
             };
 
-            
+
             const bookingResponse = await axios.post(
                 'http://127.0.0.1:8000/api/bookings/create/',
                 {
                     movie: movieId,
                     seats: selectedSeats,
+                    seatNumbers: selectedSeats.map(seatId => seats.find(seat => seat.seat_number === seatId).seat_number),
                 },
                 config
             );
 
-            
+
             console.log('Booking Response:', bookingResponse.data);
 
             setBookingDetails(bookingResponse.data);
 
 
-            
+
             setSelectedSeats([]);
         } catch (error) {
             console.error('Booking Error:', error);
@@ -106,7 +115,7 @@ const SeatSelection = () => {
                 alignItems: "center", justifyContent: "center", height: "70vh", marginTop: "80px", perspective: "5000px"
             }}>
                 <p>
-                    You have Selected Seat Numbers<>:  </>  
+                    You have Selected Seat Numbers<>:  </>
                     {selectedSeats.length > 0 ? (
                         selectedSeats.map(seatNumber => (
                             <span key={seatNumber}>{seatNumber}, </span>
@@ -125,26 +134,26 @@ const SeatSelection = () => {
                         backgroundColor: "green",
                         height: "30px",
                         width: "30px",
-                        margin: "5px", 
+                        margin: "5px",
                         borderRadius: "10px",
                         display: "flex",
                         flexDirection: "column",
                         justifyContent: "center",
                         alignItems: "center",
-                        border: "1px solid #ddd", 
+                        border: "1px solid #ddd",
                     }}>S</div>
 
                     <div className="seat-occupied" style={{
                         backgroundColor: "grey",
                         height: "30px",
-                        width: "30px",  
-                        margin: "5px", 
+                        width: "30px",
+                        margin: "5px",
                         borderRadius: "10px",
                         display: "flex",
                         flexDirection: "column",
                         justifyContent: "center",
                         alignItems: "center",
-                        border: "1px solid #ddd", 
+                        border: "1px solid #ddd",
                     }}>O</div>
                 </div>
 
@@ -160,16 +169,16 @@ const SeatSelection = () => {
                 }}></div>
                 <button className="btn btn-outline-success my-2 my-sm-0" onClick={handleBooking} style={{ backgroundColor: "white", color: "black" }}>Pay and book Now</button>
 
-                
+
 
             </div>
 
             {bookingDetails && (
                 <div className="booking-summary" style={{ display: "flex", justifyContent: "center" }} >
                     <h5>Booking confirmed for amount : </h5>
-                    
+
                     <h5> Rs. {bookingDetails.total_cost}/-</h5>
-                    
+
                 </div>
             )}
         </>

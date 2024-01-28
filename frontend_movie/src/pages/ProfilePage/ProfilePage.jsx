@@ -40,7 +40,11 @@ const ProfilePage = () => {
                     },
                 });
 
-                setBookings(bookingsResponse.data);
+                setBookings(bookingsResponse.data.map(booking => ({
+                    ...booking,
+                    
+                    seatNumbers: booking.seats.join(', '),
+                })))
 
                 const movieDetailsPromises = bookings.map(async (booking) => {
                     const movieId = booking.movie;
@@ -89,9 +93,9 @@ const ProfilePage = () => {
                                         <h4 className={styles.author}>Show Time: 12:15 PM</h4>
                                     </div>
                                 )}
-                                <h4 className={styles.author}>Seats Booked: {booking.seats.join(', ')}</h4>
+                                <h4 className={styles.author}>Seats Booked: {booking.seatNumbers}</h4>
                                 <h2 className={styles.author}>Total Cost: Rs. {booking.total_cost}/-</h2>
-                                <a style= {{color: "#888", fontSize: "18px"}}>Booked at: {new Date(booking.booking_time).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</a>
+                                <a style={{ color: "#888", fontSize: "18px" }}>Booked at: {new Date(booking.booking_time).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</a>
 
                             </div>
                         </div>
