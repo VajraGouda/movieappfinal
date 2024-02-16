@@ -1,0 +1,2124 @@
+[{
+  "_id": {
+    "$oid": "65a82a0996888035c03dbc60"
+  },
+  "id": 1,
+  "user_id": 2,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-17T19:27:05.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a82a5a96888035c03dbc63"
+  },
+  "id": 2,
+  "user_id": 2,
+  "movie_id": 6,
+  "total_cost": 2400,
+  "booking_time": {
+    "$date": "2024-01-17T19:28:26.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a82a8ed82d35b7ec7184f1"
+  },
+  "id": 3,
+  "user_id": 2,
+  "movie_id": 6,
+  "total_cost": 2400,
+  "booking_time": {
+    "$date": "2024-01-17T19:29:18.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a82ac4cab033f9b209d907"
+  },
+  "id": 4,
+  "user_id": 2,
+  "movie_id": 6,
+  "total_cost": 2400,
+  "booking_time": {
+    "$date": "2024-01-17T19:30:12.344Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a82b6c5a0cf2cc72ece524"
+  },
+  "id": 5,
+  "user_id": 2,
+  "movie_id": 6,
+  "total_cost": 2400,
+  "booking_time": {
+    "$date": "2024-01-17T19:33:00.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65a82ba55a0cf2cc72ece529"
+  },
+  "id": 6,
+  "user_id": 2,
+  "movie_id": 8,
+  "total_cost": 2400,
+  "booking_time": {
+    "$date": "2024-01-17T19:33:57.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65af923c56d2600f2e19bf54"
+  },
+  "id": 7,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-23T10:17:32.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0df1a56d2600f2e19bf59"
+  },
+  "id": 8,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T09:57:46.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e20856d2600f2e19bf5c"
+  },
+  "id": 9,
+  "user_id": 4,
+  "movie_id": 13,
+  "total_cost": 600,
+  "booking_time": {
+    "$date": "2024-01-24T10:10:16.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e24756d2600f2e19bf60"
+  },
+  "id": 10,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:11:19.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e5c556d2600f2e19bf63"
+  },
+  "id": 11,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:26:13.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e68856d2600f2e19bf66"
+  },
+  "id": 12,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:29:28.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e69456d2600f2e19bf69"
+  },
+  "id": 13,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:29:40.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e77b0a32544e6658f3f5"
+  },
+  "id": 14,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:33:31.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e8d70a32544e6658f3f8"
+  },
+  "id": 15,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:39:19.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e8f50a32544e6658f3fb"
+  },
+  "id": 16,
+  "user_id": 6,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T10:39:49.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e8f90a32544e6658f3fe"
+  },
+  "id": 17,
+  "user_id": 6,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T10:39:53.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0e9090a32544e6658f401"
+  },
+  "id": 18,
+  "user_id": 6,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T10:40:09.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0ef1c0a32544e6658f404"
+  },
+  "id": 19,
+  "user_id": 6,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T11:06:04.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0efcf0a32544e6658f408"
+  },
+  "id": 20,
+  "user_id": 6,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T11:09:03.330Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0efe90a32544e6658f40b"
+  },
+  "id": 21,
+  "user_id": 6,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T11:09:29.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0f3510a32544e6658f40e"
+  },
+  "id": 22,
+  "user_id": 6,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T11:24:01.244Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b0f85a0a32544e6658f411"
+  },
+  "id": 23,
+  "user_id": 6,
+  "movie_id": 6,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T11:45:30.371Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b101920a32544e6658f414"
+  },
+  "id": 24,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T12:24:50.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b103dd0a32544e6658f418"
+  },
+  "id": 25,
+  "user_id": 7,
+  "movie_id": 6,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T12:34:37.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b105910a32544e6658f41b"
+  },
+  "id": 26,
+  "user_id": 7,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T12:41:53.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b107efe292209a1e4dfc01"
+  },
+  "id": 27,
+  "user_id": 7,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T12:51:59.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13c61e292209a1e4dfc04"
+  },
+  "id": 28,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:35:45.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13c6ee292209a1e4dfc07"
+  },
+  "id": 29,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:35:58.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13c76e292209a1e4dfc0a"
+  },
+  "id": 30,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:36:06.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13c87e292209a1e4dfc0d"
+  },
+  "id": 31,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T16:36:23.268Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13c93e292209a1e4dfc10"
+  },
+  "id": 32,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T16:36:35.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13c98e292209a1e4dfc13"
+  },
+  "id": 33,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:36:40.964Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13ca3e292209a1e4dfc16"
+  },
+  "id": 34,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:36:51.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13caee292209a1e4dfc19"
+  },
+  "id": 35,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:37:02.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13ccee292209a1e4dfc1c"
+  },
+  "id": 36,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:37:34.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13db3e292209a1e4dfc1f"
+  },
+  "id": 37,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:41:23.366Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13db7e292209a1e4dfc22"
+  },
+  "id": 38,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:41:27.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13dbae292209a1e4dfc25"
+  },
+  "id": 39,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T16:41:30.733Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13dc4e292209a1e4dfc28"
+  },
+  "id": 40,
+  "user_id": 4,
+  "movie_id": 8,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:41:40.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13dcae292209a1e4dfc2b"
+  },
+  "id": 41,
+  "user_id": 4,
+  "movie_id": 8,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:41:46.814Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13dd2e292209a1e4dfc2e"
+  },
+  "id": 42,
+  "user_id": 4,
+  "movie_id": 8,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:41:54.384Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13e5fe292209a1e4dfc31"
+  },
+  "id": 43,
+  "user_id": 4,
+  "movie_id": 8,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T16:44:15.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13e6ee292209a1e4dfc33"
+  },
+  "id": 44,
+  "user_id": 4,
+  "movie_id": 8,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:44:30.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f60e292209a1e4dfc36"
+  },
+  "id": 45,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:48:32.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f65e292209a1e4dfc39"
+  },
+  "id": 46,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:48:37.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f6be292209a1e4dfc3c"
+  },
+  "id": 47,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T16:48:43.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f76e292209a1e4dfc3f"
+  },
+  "id": 48,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:48:54.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f7ae292209a1e4dfc42"
+  },
+  "id": 49,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:48:58.156Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f85e292209a1e4dfc45"
+  },
+  "id": 50,
+  "user_id": 4,
+  "movie_id": 6,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:49:09.218Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b13f89e292209a1e4dfc48"
+  },
+  "id": 51,
+  "user_id": 4,
+  "movie_id": 6,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T16:49:13.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b141efe292209a1e4dfc4b"
+  },
+  "id": 52,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T16:59:27.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1433fe292209a1e4dfc4e"
+  },
+  "id": 53,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:05:03.154Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14454fc1ea2415506e503"
+  },
+  "id": 54,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:09:40.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14458fc1ea2415506e506"
+  },
+  "id": 55,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:09:44.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b144f94c46bd2bd520a344"
+  },
+  "id": 56,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:12:25.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b145129d5a85a6ab2778fd"
+  },
+  "id": 57,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:12:50.278Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b146c4399040e971b4a53a"
+  },
+  "id": 58,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T17:20:04.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b146d9399040e971b4a53d"
+  },
+  "id": 59,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:20:25.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b146de399040e971b4a540"
+  },
+  "id": 60,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T17:20:30.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b146e1399040e971b4a543"
+  },
+  "id": 61,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T17:20:33.366Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b146e4399040e971b4a546"
+  },
+  "id": 62,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T17:20:36.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b146f6399040e971b4a549"
+  },
+  "id": 63,
+  "user_id": 4,
+  "movie_id": 8,
+  "total_cost": 700,
+  "booking_time": {
+    "$date": "2024-01-24T17:20:54.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14780babf7759d547f062"
+  },
+  "id": 64,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T17:23:12.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14823babf7759d547f065"
+  },
+  "id": 65,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-24T17:25:55.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14857babf7759d547f068"
+  },
+  "id": 66,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-24T17:26:46.998Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b148bbbabf7759d547f06b"
+  },
+  "id": 67,
+  "user_id": 4,
+  "movie_id": 13,
+  "total_cost": 600,
+  "booking_time": {
+    "$date": "2024-01-24T17:28:27.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14903babf7759d547f06e"
+  },
+  "id": 68,
+  "user_id": 4,
+  "movie_id": 13,
+  "total_cost": 600,
+  "booking_time": {
+    "$date": "2024-01-24T17:29:39.732Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14913babf7759d547f071"
+  },
+  "id": 69,
+  "user_id": 4,
+  "movie_id": 9,
+  "total_cost": 200,
+  "booking_time": {
+    "$date": "2024-01-24T17:29:55.513Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b14918babf7759d547f074"
+  },
+  "id": 70,
+  "user_id": 4,
+  "movie_id": 9,
+  "total_cost": 350,
+  "booking_time": {
+    "$date": "2024-01-24T17:30:00.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1491bbabf7759d547f077"
+  },
+  "id": 71,
+  "user_id": 4,
+  "movie_id": 9,
+  "total_cost": 500,
+  "booking_time": {
+    "$date": "2024-01-24T17:30:03.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b168fdc0adb4c6429aee5d"
+  },
+  "id": 72,
+  "user_id": 8,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-24T19:46:05.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b16920c0adb4c6429aee60"
+  },
+  "id": 73,
+  "user_id": 8,
+  "movie_id": 12,
+  "total_cost": 3000,
+  "booking_time": {
+    "$date": "2024-01-24T19:46:40.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1e91298d5b2c64560eda5"
+  },
+  "id": 74,
+  "user_id": 3,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-25T04:52:34.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1e95998d5b2c64560eda9"
+  },
+  "id": 75,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-25T04:53:45.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1ecc598d5b2c64560edab"
+  },
+  "id": 76,
+  "user_id": 9,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-25T05:08:21.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1eccc98d5b2c64560edad"
+  },
+  "id": 77,
+  "user_id": 9,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-25T05:08:28.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1ecd098d5b2c64560edaf"
+  },
+  "id": 78,
+  "user_id": 9,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-25T05:08:32.101Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b1ecd998d5b2c64560edb2"
+  },
+  "id": 79,
+  "user_id": 9,
+  "movie_id": 7,
+  "total_cost": 1400,
+  "booking_time": {
+    "$date": "2024-01-25T05:08:41.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b2141798d5b2c64560edb6"
+  },
+  "id": 80,
+  "user_id": 10,
+  "movie_id": 9,
+  "total_cost": 200,
+  "booking_time": {
+    "$date": "2024-01-25T07:56:07.637Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b2148b98d5b2c64560edba"
+  },
+  "id": 81,
+  "user_id": 11,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-25T07:58:03.434Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b214a198d5b2c64560edbd"
+  },
+  "id": 82,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-25T07:58:25.293Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b216dd98d5b2c64560edc0"
+  },
+  "id": 83,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-25T08:07:57.714Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b21d29572ae2bca858521a"
+  },
+  "id": 84,
+  "user_id": 4,
+  "movie_id": 10,
+  "total_cost": 200,
+  "booking_time": {
+    "$date": "2024-01-25T08:34:49.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b3ee587ba93c61c91f4a6e"
+  },
+  "id": 85,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-26T17:39:35.997Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b3f1e47ba93c61c91f4a71"
+  },
+  "id": 86,
+  "user_id": 4,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-26T17:54:44.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b3f5c31ed6115d6342c081"
+  },
+  "id": 87,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-26T18:11:15.360Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b4a70c0ef9b703d4d75c1e"
+  },
+  "id": 88,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T06:47:40.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b4dd8b103c0a978c2ada93"
+  },
+  "id": 89,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T10:40:11.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b517505ba9304c922c0313"
+  },
+  "id": 90,
+  "user_id": 4,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T14:46:40.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b517915ba9304c922c0316"
+  },
+  "id": 91,
+  "user_id": 4,
+  "movie_id": 12,
+  "total_cost": 2000,
+  "booking_time": {
+    "$date": "2024-01-27T14:47:45.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b517925ba9304c922c0317"
+  },
+  "id": 92,
+  "user_id": 4,
+  "movie_id": 12,
+  "total_cost": 2000,
+  "booking_time": {
+    "$date": "2024-01-27T14:47:45.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b517975ba9304c922c031c"
+  },
+  "id": 93,
+  "user_id": 4,
+  "movie_id": 12,
+  "total_cost": 2000,
+  "booking_time": {
+    "$date": "2024-01-27T14:47:51.436Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51ae483676619450474be"
+  },
+  "id": 94,
+  "user_id": 9,
+  "movie_id": 12,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T15:01:56.922Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51ee0091ec5b7952cb5ab"
+  },
+  "id": 95,
+  "user_id": 9,
+  "movie_id": 11,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:18:56.451Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51ef7091ec5b7952cb5ae"
+  },
+  "id": 96,
+  "user_id": 9,
+  "movie_id": 11,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:19:19.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51eff091ec5b7952cb5b1"
+  },
+  "id": 97,
+  "user_id": 9,
+  "movie_id": 11,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:19:27.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51eff091ec5b7952cb5b4"
+  },
+  "id": 98,
+  "user_id": 9,
+  "movie_id": 11,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:19:27.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51f2f091ec5b7952cb5b7"
+  },
+  "id": 99,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-27T15:20:15.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b51f54091ec5b7952cb5ba"
+  },
+  "id": 100,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:20:52.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b52185091ec5b7952cb5bd"
+  },
+  "id": 101,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:30:13.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b52191091ec5b7952cb5c0"
+  },
+  "id": 102,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T15:30:25.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5337e091ec5b7952cb5c3"
+  },
+  "id": 103,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T16:46:54.154Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b534833a98297718c71eed"
+  },
+  "id": 104,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T16:51:15.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5349c85da30603d425b26"
+  },
+  "id": 105,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T16:51:40.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b534a985da30603d425b28"
+  },
+  "id": 106,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T16:51:53.607Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b534df85da30603d425b2b"
+  },
+  "id": 107,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-27T16:52:47.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5350f9b139edf7d4d7bcb"
+  },
+  "id": 108,
+  "user_id": 9,
+  "movie_id": 6,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T16:53:35.091Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b535749b139edf7d4d7bce"
+  },
+  "id": 109,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T16:55:16.947Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5361286240c8389823615"
+  },
+  "id": 110,
+  "user_id": 9,
+  "movie_id": 8,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-27T16:57:54.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b538727c8da7451d545a74"
+  },
+  "id": 111,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T17:08:02.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b538e87c8da7451d545a77"
+  },
+  "id": 112,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-27T17:10:00.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53957664346d0812f4e30"
+  },
+  "id": 113,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-27T17:11:51.554Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b539b4664346d0812f4e33"
+  },
+  "id": 114,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:13:24.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53ad50d91c09866806b3b"
+  },
+  "id": 115,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:18:13.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53afab6ecd155c4dc080e"
+  },
+  "id": 116,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:18:50.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53c70469b32f2fcb98781"
+  },
+  "id": 117,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:25:04.481Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53d78469b32f2fcb98783"
+  },
+  "id": 118,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:29:28.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53d84469b32f2fcb98785"
+  },
+  "id": 119,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:29:40.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53da0469b32f2fcb98787"
+  },
+  "id": 120,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:30:08.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53db6469b32f2fcb98789"
+  },
+  "id": 121,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:30:30.385Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53dc4469b32f2fcb9878b"
+  },
+  "id": 122,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T17:30:44.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53ddd469b32f2fcb9878d"
+  },
+  "id": 123,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-27T17:31:09.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53e99469b32f2fcb98790"
+  },
+  "id": 124,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:34:17.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53fc1469b32f2fcb98792"
+  },
+  "id": 125,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:39:13.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53fcc469b32f2fcb98794"
+  },
+  "id": 126,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:39:24.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53fd2469b32f2fcb98796"
+  },
+  "id": 127,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:39:30.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53fd6469b32f2fcb98798"
+  },
+  "id": 128,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:39:34.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b53fdc469b32f2fcb9879a"
+  },
+  "id": 129,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T17:39:40.152Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5407f7551d3da9d2976d8"
+  },
+  "id": 130,
+  "user_id": 9,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-27T17:42:23.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b540897551d3da9d2976db"
+  },
+  "id": 131,
+  "user_id": 9,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T17:42:33.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b540f77551d3da9d2976de"
+  },
+  "id": 132,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 100,
+  "booking_time": {
+    "$date": "2024-01-27T17:44:23.896Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b540fa7551d3da9d2976e0"
+  },
+  "id": 133,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 200,
+  "booking_time": {
+    "$date": "2024-01-27T17:44:26.961Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b540fe7551d3da9d2976e3"
+  },
+  "id": 134,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 500,
+  "booking_time": {
+    "$date": "2024-01-27T17:44:30.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b541037551d3da9d2976e6"
+  },
+  "id": 135,
+  "user_id": 9,
+  "movie_id": 9,
+  "total_cost": 350,
+  "booking_time": {
+    "$date": "2024-01-27T17:44:35.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b54b783545c50335b3cfda"
+  },
+  "id": 136,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T18:29:12.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b54b7c3545c50335b3cfdd"
+  },
+  "id": 137,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T18:29:16.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b54b7e3545c50335b3cfdf"
+  },
+  "id": 138,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T18:29:18.725Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b54b883545c50335b3cfe1"
+  },
+  "id": 139,
+  "user_id": 11,
+  "movie_id": 8,
+  "total_cost": 450,
+  "booking_time": {
+    "$date": "2024-01-27T18:29:28.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b54b8b3545c50335b3cfe3"
+  },
+  "id": 140,
+  "user_id": 11,
+  "movie_id": 8,
+  "total_cost": 700,
+  "booking_time": {
+    "$date": "2024-01-27T18:29:31.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5542dee4ffa7d4e0433fd"
+  },
+  "id": 141,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T19:06:21.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b559da555670a9cfe3d04c"
+  },
+  "id": 142,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T19:30:34.101Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b55c17a7644a5437162646"
+  },
+  "id": 143,
+  "user_id": 11,
+  "movie_id": 2,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T19:40:07.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b55c30a7644a5437162648"
+  },
+  "id": 144,
+  "user_id": 11,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T19:40:32.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b55c5fa7644a543716264a"
+  },
+  "id": 145,
+  "user_id": 9,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T19:41:19.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b55d6ba7644a543716264c"
+  },
+  "id": 146,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T19:45:47.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b55fadfb580fae3316aa72"
+  },
+  "id": 147,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T19:55:25.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b560e10b17fe53ec4c60b6"
+  },
+  "id": 148,
+  "user_id": 12,
+  "movie_id": 9,
+  "total_cost": 250,
+  "booking_time": {
+    "$date": "2024-01-27T20:00:33.775Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b560ef0b17fe53ec4c60b8"
+  },
+  "id": 149,
+  "user_id": 12,
+  "movie_id": 6,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-27T20:00:47.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b561f1f9c92605b93214a4"
+  },
+  "id": 150,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-27T20:05:05.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5621cf9c92605b93214a6"
+  },
+  "id": 151,
+  "user_id": 9,
+  "movie_id": 12,
+  "total_cost": 1000,
+  "booking_time": {
+    "$date": "2024-01-27T20:05:48.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b564d1143878c5b17fbe00"
+  },
+  "id": 152,
+  "user_id": 9,
+  "movie_id": 11,
+  "total_cost": 100,
+  "booking_time": {
+    "$date": "2024-01-27T20:17:21.016Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b5651c143878c5b17fbe03"
+  },
+  "id": 153,
+  "user_id": 13,
+  "movie_id": 7,
+  "total_cost": 700,
+  "booking_time": {
+    "$date": "2024-01-27T20:18:36.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b60f0a409b586eb35ebf1b"
+  },
+  "id": 154,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T08:23:38.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b60f64409b586eb35ebf1d"
+  },
+  "id": 155,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-28T08:25:08.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b60f93409b586eb35ebf1f"
+  },
+  "id": 156,
+  "user_id": 12,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T08:25:55.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b610bf409b586eb35ebf21"
+  },
+  "id": 157,
+  "user_id": 9,
+  "movie_id": 2,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T08:30:55.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61105409b586eb35ebf23"
+  },
+  "id": 158,
+  "user_id": 11,
+  "movie_id": 6,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T08:32:05.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61bf5409b586eb35ebf25"
+  },
+  "id": 159,
+  "user_id": 11,
+  "movie_id": 8,
+  "total_cost": 900,
+  "booking_time": {
+    "$date": "2024-01-28T09:18:45.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61c67409b586eb35ebf28"
+  },
+  "id": 160,
+  "user_id": 11,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-28T09:20:39.912Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61c6c409b586eb35ebf2a"
+  },
+  "id": 161,
+  "user_id": 11,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T09:20:44.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61c71409b586eb35ebf2c"
+  },
+  "id": 162,
+  "user_id": 11,
+  "movie_id": 1,
+  "total_cost": 1200,
+  "booking_time": {
+    "$date": "2024-01-28T09:20:49.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61c7d409b586eb35ebf2f"
+  },
+  "id": 163,
+  "user_id": 11,
+  "movie_id": 10,
+  "total_cost": 100,
+  "booking_time": {
+    "$date": "2024-01-28T09:21:01.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b61c85409b586eb35ebf31"
+  },
+  "id": 164,
+  "user_id": 11,
+  "movie_id": 10,
+  "total_cost": 200,
+  "booking_time": {
+    "$date": "2024-01-28T09:21:09.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b64b26453620e96f7641ea"
+  },
+  "id": 165,
+  "user_id": 14,
+  "movie_id": 9,
+  "total_cost": 100,
+  "booking_time": {
+    "$date": "2024-01-28T12:40:06.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b64b2d453620e96f7641ec"
+  },
+  "id": 166,
+  "user_id": 14,
+  "movie_id": 9,
+  "total_cost": 500,
+  "booking_time": {
+    "$date": "2024-01-28T12:40:13.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b64b33453620e96f7641ef"
+  },
+  "id": 167,
+  "user_id": 14,
+  "movie_id": 9,
+  "total_cost": 100,
+  "booking_time": {
+    "$date": "2024-01-28T12:40:19.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b64f54453620e96f7641f2"
+  },
+  "id": 168,
+  "user_id": 15,
+  "movie_id": 1,
+  "total_cost": 1600,
+  "booking_time": {
+    "$date": "2024-01-28T12:57:56.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b64f7e453620e96f7641f5"
+  },
+  "id": 169,
+  "user_id": 15,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T12:58:38.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b656bc453620e96f7641f7"
+  },
+  "id": 170,
+  "user_id": 15,
+  "movie_id": 1,
+  "total_cost": 800,
+  "booking_time": {
+    "$date": "2024-01-28T13:29:32.514Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b65700453620e96f7641fa"
+  },
+  "id": 171,
+  "user_id": 16,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-01-28T13:30:40.423Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b65722453620e96f7641fc"
+  },
+  "id": 172,
+  "user_id": 16,
+  "movie_id": 12,
+  "total_cost": 3000,
+  "booking_time": {
+    "$date": "2024-01-28T13:31:14.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bcd3991edf4a8c20e964a5"
+  },
+  "id": 173,
+  "user_id": 17,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-02-02T11:35:53.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65bcd3b51edf4a8c20e964a7"
+  },
+  "id": 174,
+  "user_id": 17,
+  "movie_id": 9,
+  "total_cost": 450,
+  "booking_time": {
+    "$date": "2024-02-02T11:36:21.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cf22848cfe664d3ceb37b2"
+  },
+  "id": 175,
+  "user_id": 18,
+  "movie_id": 1,
+  "total_cost": 400,
+  "booking_time": {
+    "$date": "2024-02-16T08:53:24.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cf22a08cfe664d3ceb37b4"
+  },
+  "id": 176,
+  "user_id": 18,
+  "movie_id": 13,
+  "total_cost": 600,
+  "booking_time": {
+    "$date": "2024-02-16T08:53:52.138Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cf22c28cfe664d3ceb37b7"
+  },
+  "id": 177,
+  "user_id": 18,
+  "movie_id": 12,
+  "total_cost": 1000,
+  "booking_time": {
+    "$date": "2024-02-16T08:54:26.205Z"
+  }
+}]

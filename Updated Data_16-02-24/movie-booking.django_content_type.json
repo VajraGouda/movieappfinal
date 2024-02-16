@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65a810df5636644f0adee955"
+  },
+  "id": 1,
+  "app_label": "admin",
+  "model": "logentry"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee95a"
+  },
+  "id": 2,
+  "app_label": "auth",
+  "model": "permission"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee95b"
+  },
+  "id": 3,
+  "app_label": "auth",
+  "model": "group"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee964"
+  },
+  "id": 4,
+  "app_label": "contenttypes",
+  "model": "contenttype"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee969"
+  },
+  "id": 5,
+  "app_label": "sessions",
+  "model": "session"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee96e"
+  },
+  "id": 6,
+  "app_label": "movieBooking",
+  "model": "user"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee96f"
+  },
+  "id": 7,
+  "app_label": "movieBooking",
+  "model": "movie"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee970"
+  },
+  "id": 8,
+  "app_label": "movieBooking",
+  "model": "theatre"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee971"
+  },
+  "id": 9,
+  "app_label": "movieBooking",
+  "model": "seat"
+},
+{
+  "_id": {
+    "$oid": "65a810df5636644f0adee972"
+  },
+  "id": 10,
+  "app_label": "movieBooking",
+  "model": "booking"
+}]
